@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+aeX6kii9o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasmu\\source\\repos\\TheRestaurant\\TheRestaurant\\TheRestaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\spectre\\0.0.1\\spectre.0.0.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.45\\spectre.console.0.49.2-preview.0.45.nupkg.sha512"
+  ],
+  "logs": []
+}

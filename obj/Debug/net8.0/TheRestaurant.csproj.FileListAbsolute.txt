@@ -1,0 +1,17 @@
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\TheRestaurant.exe
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\TheRestaurant.deps.json
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\TheRestaurant.runtimeconfig.json
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\TheRestaurant.dll
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\TheRestaurant.pdb
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.dll
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\refint\TheRestaurant.dll
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.pdb
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.genruntimeconfig.cache
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\ref\TheRestaurant.dll
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheRestaurant.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\TheRestaurant\TheRestaurant\obj\Debug\net8.0\TheResta.9BAF49CF.Up2Date
